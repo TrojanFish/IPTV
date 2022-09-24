@@ -16,27 +16,27 @@ http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/32212296
 #EXTINF:-1 ,CCTV-6电影
 http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230685/index.m3u8
 #EXTINF:-1 ,CCTV-7军事
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 ,CCTV-8电影
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230737/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 ,CCTV-9纪录
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 #EXTINF:-1 ,CCTV-10科教
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 ,CCTV-11戏曲
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 ,CCTV-12社会与法
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 #EXTINF:-1 ,CCTV-13新闻
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/01.m3u8?fmt=ts2hls
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 ,CCTV-14少儿
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230701/01.m3u8?fmt=ts2hls
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 ,CCTV-15音乐
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658/01.m3u8?fmt=ts2hls
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 ,CCTV-17农业农村
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229765/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 ,浙江卫视
-http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230035/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
 #EXTINF:-1 ,浙江钱江台
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 #EXTINF:-1 ,浙江经济台
