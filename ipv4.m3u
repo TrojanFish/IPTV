@@ -15,7 +15,29 @@ CCTV14,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/40
 CCTV15,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
 CCTV5+,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
 中国天气,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
-广西卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+浙江卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="浙江",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangqjds.png" group-title="浙江",浙江钱江
+http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang6.png" group-title="浙江",浙江民生
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangxw.png" group-title="浙江",浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangse.png" group-title="浙江",浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="6575" tvg-name="留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="浙江",留学世界
+http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江国际(亚洲)" tvg-name="浙江国际(亚洲)" tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/72d035c03412d7cb2d319c6607fef8e9.png" group-title="浙江",浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",之江记录
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ohudong.cztv.com/1/logos/2017/05/16/090bdb9f3da9df74a275a785c3ba023f.png" group-title="浙江",数码时代
+https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+东方卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+安徽卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+湖南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+江苏卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
 广东卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
 深圳卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
 海南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
@@ -24,16 +46,12 @@ CCTV5+,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/40
 东南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
 厦门卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
 江西卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
-安徽卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
-湖南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+广西卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
 湖北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
 河南卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
 河北卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hbws/1300000/mnf.m3u8
 重庆卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
 四川卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
-浙江卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
-江苏卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
-东方卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
 山东卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
 北京卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
 天津卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
