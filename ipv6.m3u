@@ -65,6 +65,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225703/index.m3
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangqjds.png" group-title="浙江",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangjjsh.png" group-title="浙江",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1 tvg-id="浙江教育科技" tvg-name="浙江教育科技" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangjjsh.png" group-title="浙江",浙江教育科技
+http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang6.png" group-title="浙江",浙江民生
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiangxw.png" group-title="浙江",浙江新闻
