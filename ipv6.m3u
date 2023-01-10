@@ -45,14 +45,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",华丽翡翠台
-http://r.jdshipin.com/thuYX
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",J2
-http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",VIUTV
-http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",体育赛事
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视",中国教育
@@ -379,3 +371,7 @@ http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
 http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 #EXTINF:-1 group-title="国际",SBS HD
 http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="国际",VIUTV
+http://r.jdshipin.com/vSJvl
