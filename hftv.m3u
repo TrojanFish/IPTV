@@ -53,6 +53,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICS英文" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/YueChan/Live/main/CGTN.png" group-title="国际",金砖英文
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
 安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
