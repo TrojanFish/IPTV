@@ -55,12 +55,18 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
-安徽经济生活,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
-安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
-安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
-安徽公共,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-安徽农业科教,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
-安徽国际,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽经济" tvg-logo="https://epg.112114.xyz/logo/安徽经济.png" group-title="卫视",安徽经济生活
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829325295495.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽影视" tvg-logo="https://epg.112114.xyz/logo/安徽影视.png" group-title="卫视",安徽影视
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽综艺体育" tvg-logo="https://epg.112114.xyz/logo/安徽综艺体育.png" group-title="卫视",安徽综艺体育
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽公共" tvg-logo="https://epg.112114.xyz/logo/安徽公共.png" group-title="卫视",安徽公共
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽农业科教" tvg-logo="https://epg.112114.xyz/logo/安徽农业科教.png" group-title="卫视",安徽农业科教
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="卫视",安徽国际
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png" group-title="浙江",浙江卫视
